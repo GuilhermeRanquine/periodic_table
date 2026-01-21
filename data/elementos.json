@@ -751,5 +751,23 @@
       {"massNumber": 87, "abundance": 7.00},
       {"massNumber": 88, "abundance": 82.58}
     ]
+  },
+  {
+    "number": 39,
+    "symbol": "Y",
+    "name": "Yttrium",
+    "atomicMass": 88.90584,
+    "group": 3,
+    "period": 5,
+    "density": 4.47,
+    "fusionPoint": 1799,
+    "ebulitionPoint": 3203,
+    "atomicRadius": 212,
+    "electronegativity": 1.22,
+    "eletronicConfiguration": "[Kr] 4d1 5s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d1 5s2",
+    "isotopes": [
+      {"massNumber": 89, "abundance": 100.0}
+    ]
   }
 ]
