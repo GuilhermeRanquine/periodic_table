@@ -1,0 +1,22 @@
+[
+  {
+    "numero": 1,
+    "simbolo": "H",
+    "nome": "Hidrogênio",
+    "massa": 1.008,
+    "grupo": 1,
+    "periodo": 1,
+    "densidade": 0.00008988,      
+    "pontoFusao": 13.99,           
+    "pontoEbulicao": 20.271,       
+    "raioAtomico": 53,             
+    "eletronegatividade": 2.20,    
+    "configuracaoEletronica": "1s1",
+    "configuracaoSemantica": "1s1",
+    "isotopos": [                  
+      {"massa": 1, "abundancia": 99.9885},
+      {"massa": 2, "abundancia": 0.0115},
+      {"massa": 3, "abundancia": 0.00000000001}
+    ]
+  }
+]
