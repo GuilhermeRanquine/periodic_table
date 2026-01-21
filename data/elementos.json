@@ -56,7 +56,7 @@
       {"massNumber": 6, "abundance": 7.59},
       {"massNumber": 7, "abundance": 92.41}
     ]
-  }
+  },
   {
     "number": 4,
     "symbol": "Be",
@@ -73,6 +73,160 @@
     "semanticConfiguration": "1s2 2s2",
     "isotopes": [
       {"massNumber": 9, "abundance": 100.0}
+    ]
+  },
+  {
+    "number": 5,
+    "symbol": "B",
+    "name": "Boron",
+    "atomicMass": 10.81,
+    "group": 13,
+    "period": 2,
+    "density": 2.34,
+    "fusionPoint": 2349,
+    "ebulitionPoint": 4200,
+    "atomicRadius": 87,
+    "electronegativity": 2.04,
+    "eletronicConfiguration": "[He] 2s2 2p1",
+    "semanticConfiguration": "1s2 2s2 2p1",
+    "isotopes": [
+      {"massNumber": 10, "abundance": 19.9},
+      {"massNumber": 11, "abundance": 80.1}
+    ]
+  },
+  {
+    "number": 6,
+    "symbol": "C",
+    "name": "Carbon",
+    "atomicMass": 12.011,
+    "group": 14,
+    "period": 2,
+    "density": 2.267,
+    "fusionPoint": 3823,
+    "ebulitionPoint": 4300,
+    "atomicRadius": 67,
+    "electronegativity": 2.55,
+    "eletronicConfiguration": "[He] 2s2 2p2",
+    "semanticConfiguration": "1s2 2s2 2p2",
+    "isotopes": [
+      {"massNumber": 12, "abundance": 98.93},
+      {"massNumber": 13, "abundance": 1.07},
+      {"massNumber": 14, "abundance": 0.0000000001}
+    ]
+  },
+  {
+    "number": 7,
+    "symbol": "N",
+    "name": "Nitrogen",
+    "atomicMass": 14.007,
+    "group": 15,
+    "period": 2,
+    "density": 0.0012506,
+    "fusionPoint": 63.15,
+    "ebulitionPoint": 77.355,
+    "atomicRadius": 56,
+    "electronegativity": 3.04,
+    "eletronicConfiguration": "[He] 2s2 2p3",
+    "semanticConfiguration": "1s2 2s2 2p3",
+    "isotopes": [
+      {"massNumber": 14, "abundance": 99.632},
+      {"massNumber": 15, "abundance": 0.368}
+    ]
+  },
+  {
+    "number": 8,
+    "symbol": "O",
+    "name": "Oxygen",
+    "atomicMass": 15.999,
+    "group": 16,
+    "period": 2,
+    "density": 0.001429,
+    "fusionPoint": 54.36,
+    "ebulitionPoint": 90.188,
+    "atomicRadius": 48,
+    "electronegativity": 3.44,
+    "eletronicConfiguration": "[He] 2s2 2p4",
+    "semanticConfiguration": "1s2 2s2 2p4",
+    "isotopes": [
+      {"massNumber": 16, "abundance": 99.757},
+      {"massNumber": 17, "abundance": 0.038},
+      {"massNumber": 18, "abundance": 0.205}
+    ]
+  },
+  {
+    "number": 9,
+    "symbol": "F",
+    "name": "Fluorine",
+    "atomicMass": 18.998403163,
+    "group": 17,
+    "period": 2,
+    "density": 0.001696,
+    "fusionPoint": 53.48,
+    "ebulitionPoint": 85.03,
+    "atomicRadius": 42,
+    "electronegativity": 3.98,
+    "eletronicConfiguration": "[He] 2s2 2p5",
+    "semanticConfiguration": "1s2 2s2 2p5",
+    "isotopes": [
+      {"massNumber": 19, "abundance": 100.0}
+    ]
+  },
+  {
+    "number": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "atomicMass": 20.1797,
+    "group": 18,
+    "period": 2,
+    "density": 0.0008999,
+    "fusionPoint": 24.56,
+    "ebulitionPoint": 27.104,
+    "atomicRadius": 38,
+    "electronegativity": 0.0,
+    "eletronicConfiguration": "[He] 2s2 2p6",
+    "semanticConfiguration": "1s2 2s2 2p6",
+    "isotopes": [
+      {"massNumber": 20, "abundance": 90.48},
+      {"massNumber": 21, "abundance": 0.27},
+      {"massNumber": 22, "abundance": 9.25}
+    ]
+  },
+  {
+    "number": 11,
+    "symbol": "Na",
+    "name": "Sodium",
+    "atomicMass": 22.98976928,
+    "group": 1,
+    "period": 3,
+    "density": 0.971,
+    "fusionPoint": 370.87,
+    "ebulitionPoint": 1156,
+    "atomicRadius": 190,
+    "electronegativity": 0.93,
+    "eletronicConfiguration": "[Ne] 3s1",
+    "semanticConfiguration": "1s2 2s2 2p6 3s1",
+    "isotopes": [
+      {"massNumber": 23, "abundance": 100.0}
+    ]
+  },
+  {
+    "number": 12,
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "atomicMass": 24.305,
+    "group": 2,
+    "period": 3,
+    "density": 1.738,
+    "fusionPoint": 923,
+    "ebulitionPoint": 1363,
+    "atomicRadius": 145,
+    "electronegativity": 1.31,
+    "eletronicConfiguration": "[Ne] 3s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2",
+    "isotopes": [
+      {"massNumber": 24, "abundance": 78.99},
+      {"massNumber": 25, "abundance": 10.00},
+      {"massNumber": 26, "abundance": 11.01}
     ]
   }
 ]
