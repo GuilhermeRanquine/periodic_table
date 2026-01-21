@@ -1,22 +1,31 @@
 [
   {
-    "numero": 1,
-    "simbolo": "H",
-    "nome": "Hidrogênio",
-    "massa": 1.008,
-    "grupo": 1,
-    "periodo": 1,
-    "densidade": 0.00008988,      
-    "pontoFusao": 13.99,           
-    "pontoEbulicao": 20.271,       
-    "raioAtomico": 53,             
-    "eletronegatividade": 2.20,    
-    "configuracaoEletronica": "1s1",
-    "configuracaoSemantica": "1s1",
-    "isotopos": [                  
-      {"massa": 1, "abundancia": 99.9885},
-      {"massa": 2, "abundancia": 0.0115},
-      {"massa": 3, "abundancia": 0.00000000001}
+    "number": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "atomicMass": 1.008,
+    "group": 1,
+    "period": 1,
+    "density": 0.00008988,
+    "fusionPoint": 13.99,
+    "ebulitionPoint": 20.271,
+    "atomicRadius": 53,
+    "electronegativity": 2.20,
+    "eletronicConfiguration": "1s1",
+    "semanticConfiguration": "1s1",
+    "isotopes": [
+      {
+        "massNumber": 1,
+        "abundance": 99.9885
+      },
+      {
+        "massNumber": 2,
+        "abundance": 0.0115
+      },
+      {
+        "massNumber": 3,
+        "abundance": 0.00000000001
+      }
     ]
   }
 ]
