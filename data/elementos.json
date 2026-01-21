@@ -228,5 +228,528 @@
       {"massNumber": 25, "abundance": 10.00},
       {"massNumber": 26, "abundance": 11.01}
     ]
+  },
+  {
+    "number": 13,
+    "symbol": "Al",
+    "name": "Aluminum",
+    "atomicMass": 26.9815385,
+    "group": 13,
+    "period": 3,
+    "density": 2.70,
+    "fusionPoint": 933.47,
+    "ebulitionPoint": 2792,
+    "atomicRadius": 118,
+    "electronegativity": 1.61,
+    "eletronicConfiguration": "[Ne] 3s2 3p1",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p1",
+    "isotopes": [
+      {"massNumber": 27, "abundance": 100.0}
+    ]
+  },
+  {
+    "number": 14,
+    "symbol": "Si",
+    "name": "Silicon",
+    "atomicMass": 28.085,
+    "group": 14,
+    "period": 3,
+    "density": 2.33,
+    "fusionPoint": 1687,
+    "ebulitionPoint": 3538,
+    "atomicRadius": 111,
+    "electronegativity": 1.90,
+    "eletronicConfiguration": "[Ne] 3s2 3p2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p2",
+    "isotopes": [
+      {"massNumber": 28, "abundance": 92.23},
+      {"massNumber": 29, "abundance": 4.67},
+      {"massNumber": 30, "abundance": 3.10}
+    ]
+  },
+  {
+    "number": 15,
+    "symbol": "P",
+    "name": "Phosphorus",
+    "atomicMass": 30.973761998,
+    "group": 15,
+    "period": 3,
+    "density": 1.823,
+    "fusionPoint": 317.30,
+    "ebulitionPoint": 553.65,
+    "atomicRadius": 98,
+    "electronegativity": 2.19,
+    "eletronicConfiguration": "[Ne] 3s2 3p3",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p3",
+    "isotopes": [
+      {"massNumber": 31, "abundance": 100.0}
+    ]
+  },
+  {
+    "number": 16,
+    "symbol": "S",
+    "name": "Sulfur",
+    "atomicMass": 32.06,
+    "group": 16,
+    "period": 3,
+    "density": 2.07,
+    "fusionPoint": 388.36,
+    "ebulitionPoint": 717.75,
+    "atomicRadius": 88,
+    "electronegativity": 2.58,
+    "eletronicConfiguration": "[Ne] 3s2 3p4",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p4",
+    "isotopes": [
+      {"massNumber": 32, "abundance": 94.99},
+      {"massNumber": 33, "abundance": 0.75},
+      {"massNumber": 34, "abundance": 4.25},
+      {"massNumber": 36, "abundance": 0.01}
+    ]
+  },
+  {
+    "number": 17,
+    "symbol": "Cl",
+    "name": "Chlorine",
+    "atomicMass": 35.45,
+    "group": 17,
+    "period": 3,
+    "density": 0.003214,
+    "fusionPoint": 171.6,
+    "ebulitionPoint": 239.11,
+    "atomicRadius": 79,
+    "electronegativity": 3.16,
+    "eletronicConfiguration": "[Ne] 3s2 3p5",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p5",
+    "isotopes": [
+      {"massNumber": 35, "abundance": 75.78},
+      {"massNumber": 37, "abundance": 24.22}
+    ]
+  },
+  {
+    "number": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "atomicMass": 39.948,
+    "group": 18,
+    "period": 3,
+    "density": 0.0017837,
+    "fusionPoint": 83.81,
+    "ebulitionPoint": 87.302,
+    "atomicRadius": 71,
+    "electronegativity": 0.0,
+    "eletronicConfiguration": "[Ne] 3s2 3p6",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6",
+    "isotopes": [
+      {"massNumber": 36, "abundance": 0.3365},
+      {"massNumber": 38, "abundance": 0.0632},
+      {"massNumber": 40, "abundance": 99.6003}
+    ]
+  },
+  {
+    "number": 19,
+    "symbol": "K",
+    "name": "Potassium",
+    "atomicMass": 39.0983,
+    "group": 1,
+    "period": 4,
+    "density": 0.862,
+    "fusionPoint": 336.53,
+    "ebulitionPoint": 1032,
+    "atomicRadius": 243,
+    "electronegativity": 0.82,
+    "eletronicConfiguration": "[Ar] 4s1",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 4s1",
+    "isotopes": [
+      {"massNumber": 39, "abundance": 93.2581},
+      {"massNumber": 40, "abundance": 0.0117},
+      {"massNumber": 41, "abundance": 6.7302}
+    ]
+  },
+  {
+    "number": 20,
+    "symbol": "Ca",
+    "name": "Calcium",
+    "atomicMass": 40.078,
+    "group": 2,
+    "period": 4,
+    "density": 1.55,
+    "fusionPoint": 1115,
+    "ebulitionPoint": 1757,
+    "atomicRadius": 194,
+    "electronegativity": 1.00,
+    "eletronicConfiguration": "[Ar] 4s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2",
+    "isotopes": [
+      {"massNumber": 40, "abundance": 96.941},
+      {"massNumber": 42, "abundance": 0.647},
+      {"massNumber": 43, "abundance": 0.135},
+      {"massNumber": 44, "abundance": 2.086},
+      {"massNumber": 46, "abundance": 0.004},
+      {"massNumber": 48, "abundance": 0.187}
+    ]
+  },
+  {
+    "number": 21,
+    "symbol": "Sc",
+    "name": "Scandium",
+    "atomicMass": 44.955908,
+    "group": 3,
+    "period": 4,
+    "density": 2.985,
+    "fusionPoint": 1814,
+    "ebulitionPoint": 3109,
+    "atomicRadius": 184,
+    "electronegativity": 1.36,
+    "eletronicConfiguration": "[Ar] 3d1 4s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d1 4s2",
+    "isotopes": [
+      {"massNumber": 45, "abundance": 100.0}
+    ]
+  },
+  {
+    "number": 22,
+    "symbol": "Ti",
+    "name": "Titanium",
+    "atomicMass": 47.867,
+    "group": 4,
+    "period": 4,
+    "density": 4.506,
+    "fusionPoint": 1941,
+    "ebulitionPoint": 3560,
+    "atomicRadius": 176,
+    "electronegativity": 1.54,
+    "eletronicConfiguration": "[Ar] 3d2 4s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d2 4s2",
+    "isotopes": [
+      {"massNumber": 46, "abundance": 8.25},
+      {"massNumber": 47, "abundance": 7.44},
+      {"massNumber": 48, "abundance": 73.72},
+      {"massNumber": 49, "abundance": 5.41},
+      {"massNumber": 50, "abundance": 5.18}
+    ]
+  },
+  {
+    "number": 23,
+    "symbol": "V",
+    "name": "Vanadium",
+    "atomicMass": 50.9415,
+    "group": 5,
+    "period": 4,
+    "density": 6.11,
+    "fusionPoint": 2183,
+    "ebulitionPoint": 3680,
+    "atomicRadius": 171,
+    "electronegativity": 1.63,
+    "eletronicConfiguration": "[Ar] 3d3 4s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d3 4s2",
+    "isotopes": [
+      {"massNumber": 50, "abundance": 0.250},
+      {"massNumber": 51, "abundance": 99.750}
+    ]
+  },
+  {
+    "number": 24,
+    "symbol": "Cr",
+    "name": "Chromium",
+    "atomicMass": 51.9961,
+    "group": 6,
+    "period": 4,
+    "density": 7.19,
+    "fusionPoint": 2180,
+    "ebulitionPoint": 2944,
+    "atomicRadius": 166,
+    "electronegativity": 1.66,
+    "eletronicConfiguration": "[Ar] 3d5 4s1",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d5 4s1",
+    "isotopes": [
+      {"massNumber": 50, "abundance": 4.345},
+      {"massNumber": 52, "abundance": 83.789},
+      {"massNumber": 53, "abundance": 9.501},
+      {"massNumber": 54, "abundance": 2.365}
+    ]
+  },
+  {
+    "number": 25,
+    "symbol": "Mn",
+    "name": "Manganese",
+    "atomicMass": 54.938044,
+    "group": 7,
+    "period": 4,
+    "density": 7.21,
+    "fusionPoint": 1519,
+    "ebulitionPoint": 2334,
+    "atomicRadius": 161,
+    "electronegativity": 1.55,
+    "eletronicConfiguration": "[Ar] 3d5 4s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d5 4s2",
+    "isotopes": [
+      {"massNumber": 55, "abundance": 100.0}
+    ]
+  },
+  {
+    "number": 26,
+    "symbol": "Fe",
+    "name": "Iron",
+    "atomicMass": 55.845,
+    "group": 8,
+    "period": 4,
+    "density": 7.874,
+    "fusionPoint": 1811,
+    "ebulitionPoint": 3134,
+    "atomicRadius": 156,
+    "electronegativity": 1.83,
+    "eletronicConfiguration": "[Ar] 3d6 4s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d6 4s2",
+    "isotopes": [
+      {"massNumber": 54, "abundance": 5.845},
+      {"massNumber": 56, "abundance": 91.754},
+      {"massNumber": 57, "abundance": 2.119},
+      {"massNumber": 58, "abundance": 0.282}
+    ]
+  },
+  {
+    "number": 27,
+    "symbol": "Co",
+    "name": "Cobalt",
+    "atomicMass": 58.933194,
+    "group": 9,
+    "period": 4,
+    "density": 8.90,
+    "fusionPoint": 1768,
+    "ebulitionPoint": 3200,
+    "atomicRadius": 152,
+    "electronegativity": 1.88,
+    "eletronicConfiguration": "[Ar] 3d7 4s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d7 4s2",
+    "isotopes": [
+      {"massNumber": 59, "abundance": 100.0}
+    ]
+  },
+  {
+    "number": 28,
+    "symbol": "Ni",
+    "name": "Nickel",
+    "atomicMass": 58.6934,
+    "group": 10,
+    "period": 4,
+    "density": 8.908,
+    "fusionPoint": 1728,
+    "ebulitionPoint": 3186,
+    "atomicRadius": 149,
+    "electronegativity": 1.91,
+    "eletronicConfiguration": "[Ar] 3d8 4s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d8 4s2",
+    "isotopes": [
+      {"massNumber": 58, "abundance": 68.077},
+      {"massNumber": 60, "abundance": 26.223},
+      {"massNumber": 61, "abundance": 1.140},
+      {"massNumber": 62, "abundance": 3.634},
+      {"massNumber": 64, "abundance": 0.926}
+    ]
+  },
+  {
+    "number": 29,
+    "symbol": "Cu",
+    "name": "Copper",
+    "atomicMass": 63.546,
+    "group": 11,
+    "period": 4,
+    "density": 8.96,
+    "fusionPoint": 1357.77,
+    "ebulitionPoint": 2835,
+    "atomicRadius": 145,
+    "electronegativity": 1.90,
+    "eletronicConfiguration": "[Ar] 3d10 4s1",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s1",
+    "isotopes": [
+      {"massNumber": 63, "abundance": 69.15},
+      {"massNumber": 65, "abundance": 30.85}
+    ]
+  },
+  {
+    "number": 30,
+    "symbol": "Zn",
+    "name": "Zinc",
+    "atomicMass": 65.38,
+    "group": 12,
+    "period": 4,
+    "density": 7.14,
+    "fusionPoint": 692.68,
+    "ebulitionPoint": 1180,
+    "atomicRadius": 142,
+    "electronegativity": 1.65,
+    "eletronicConfiguration": "[Ar] 3d10 4s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2",
+    "isotopes": [
+      {"massNumber": 64, "abundance": 48.63},
+      {"massNumber": 66, "abundance": 27.90},
+      {"massNumber": 67, "abundance": 4.10},
+      {"massNumber": 68, "abundance": 18.75},
+      {"massNumber": 70, "abundance": 0.62}
+    ]
+  },
+  {
+    "number": 31,
+    "symbol": "Ga",
+    "name": "Gallium",
+    "atomicMass": 69.723,
+    "group": 13,
+    "period": 4,
+    "density": 5.91,
+    "fusionPoint": 302.91,
+    "ebulitionPoint": 2477,
+    "atomicRadius": 136,
+    "electronegativity": 1.81,
+    "eletronicConfiguration": "[Ar] 3d10 4s2 4p1",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p1",
+    "isotopes": [
+      {"massNumber": 69, "abundance": 60.108},
+      {"massNumber": 71, "abundance": 39.892}
+    ]
+  },
+  {
+    "number": 32,
+    "symbol": "Ge",
+    "name": "Germanium",
+    "atomicMass": 72.63,
+    "group": 14,
+    "period": 4,
+    "density": 5.323,
+    "fusionPoint": 1211.40,
+    "ebulitionPoint": 3106,
+    "atomicRadius": 125,
+    "electronegativity": 2.01,
+    "eletronicConfiguration": "[Ar] 3d10 4s2 4p2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p2",
+    "isotopes": [
+      {"massNumber": 70, "abundance": 20.84},
+      {"massNumber": 72, "abundance": 27.54},
+      {"massNumber": 73, "abundance": 7.73},
+      {"massNumber": 74, "abundance": 36.28},
+      {"massNumber": 76, "abundance": 7.61}
+    ]
+  },
+  {
+    "number": 33,
+    "symbol": "As",
+    "name": "Arsenic",
+    "atomicMass": 74.921595,
+    "group": 15,
+    "period": 4,
+    "density": 5.776,
+    "fusionPoint": 1090,
+    "ebulitionPoint": 887,
+    "atomicRadius": 114,
+    "electronegativity": 2.18,
+    "eletronicConfiguration": "[Ar] 3d10 4s2 4p3",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p3",
+    "isotopes": [
+      {"massNumber": 75, "abundance": 100.0}
+    ]
+  },
+  {
+    "number": 34,
+    "symbol": "Se",
+    "name": "Selenium",
+    "atomicMass": 78.971,
+    "group": 16,
+    "period": 4,
+    "density": 4.809,
+    "fusionPoint": 494,
+    "ebulitionPoint": 958,
+    "atomicRadius": 103,
+    "electronegativity": 2.55,
+    "eletronicConfiguration": "[Ar] 3d10 4s2 4p4",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p4",
+    "isotopes": [
+      {"massNumber": 74, "abundance": 0.89},
+      {"massNumber": 76, "abundance": 9.37},
+      {"massNumber": 77, "abundance": 7.63},
+      {"massNumber": 78, "abundance": 23.77},
+      {"massNumber": 80, "abundance": 49.61},
+      {"massNumber": 82, "abundance": 8.73}
+    ]
+  },
+  {
+    "number": 35,
+    "symbol": "Br",
+    "name": "Bromine",
+    "atomicMass": 79.904,
+    "group": 17,
+    "period": 4,
+    "density": 3.1028,
+    "fusionPoint": 265.8,
+    "ebulitionPoint": 332.0,
+    "atomicRadius": 94,
+    "electronegativity": 2.96,
+    "eletronicConfiguration": "[Ar] 3d10 4s2 4p5",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p5",
+    "isotopes": [
+      {"massNumber": 79, "abundance": 50.69},
+      {"massNumber": 81, "abundance": 49.31}
+    ]
+  },
+  {
+    "number": 36,
+    "symbol": "Kr",
+    "name": "Krypton",
+    "atomicMass": 83.798,
+    "group": 18,
+    "period": 4,
+    "density": 0.003733,
+    "fusionPoint": 115.79,
+    "ebulitionPoint": 119.93,
+    "atomicRadius": 88,
+    "electronegativity": 3.00,
+    "eletronicConfiguration": "[Ar] 3d10 4s2 4p6",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6",
+    "isotopes": [
+      {"massNumber": 78, "abundance": 0.35},
+      {"massNumber": 80, "abundance": 2.25},
+      {"massNumber": 82, "abundance": 11.58},
+      {"massNumber": 83, "abundance": 11.49},
+      {"massNumber": 84, "abundance": 57.00},
+      {"massNumber": 86, "abundance": 17.29}
+    ]
+  },
+  {
+    "number": 37,
+    "symbol": "Rb",
+    "name": "Rubidium",
+    "atomicMass": 85.4678,
+    "group": 1,
+    "period": 5,
+    "density": 1.532,
+    "fusionPoint": 312.46,
+    "ebulitionPoint": 961,
+    "atomicRadius": 265,
+    "electronegativity": 0.82,
+    "eletronicConfiguration": "[Kr] 5s1",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 5s1",
+    "isotopes": [
+      {"massNumber": 85, "abundance": 72.17},
+      {"massNumber": 87, "abundance": 27.83}
+    ]
+  },
+  {
+    "number": 38,
+    "symbol": "Sr",
+    "name": "Strontium",
+    "atomicMass": 87.62,
+    "group": 2,
+    "period": 5,
+    "density": 2.64,
+    "fusionPoint": 1050,
+    "ebulitionPoint": 1655,
+    "atomicRadius": 219,
+    "electronegativity": 0.95,
+    "eletronicConfiguration": "[Kr] 5s2",
+    "semanticConfiguration": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 5s2",
+    "isotopes": [
+      {"massNumber": 84, "abundance": 0.56},
+      {"massNumber": 86, "abundance": 9.86},
+      {"massNumber": 87, "abundance": 7.00},
+      {"massNumber": 88, "abundance": 82.58}
+    ]
   }
 ]
