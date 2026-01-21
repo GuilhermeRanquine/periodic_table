@@ -1,11 +1,25 @@
 #pragma once
+
 #include <vector>
 #include <string>
-#include "Element.hpp"
-// Funções para manipulação da tabela periódica
-std::vector<Element> LoadElements(const std::string& file); // carrega os elementos de um arquivo
-void showTable(const std::vector<Element>& elements); // mostra a tabela periódica
-Element findNumber(const std::vector<Element>& elements, int num); // encontra um elemento pelo número atômico
-void showDetailsElement(const Element& e); //para mostrar os detalhes do elemento
-void viewOrbitals(const Element& e); // para mostrar os orbitais do elemento
-void mainMenu(std::vector<Element>& elements); // menu principal
+
+struct Element {
+    int number;
+    std::string symbol;
+    std::string name;
+    double atomicMass;
+    int group;
+    int period;
+    double density;
+    double fusionPoint;
+    double ebulitionPoint;
+    double atomicRadius;
+    double electronegativity;
+    std::string eletronicConfiguration;
+    std::string semanticConfiguration;
+    std::vector<std::pair<int, double>> isotopes;
+};
+
+std::vector<Element> LoadElements(const std::string& filePath);
+
+void showTable(const std::vector<Element>& elements);  // <- exato, sem const& no parâmetro aqui? Não, deve ter!

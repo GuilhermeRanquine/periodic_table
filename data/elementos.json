@@ -14,18 +14,65 @@
     "eletronicConfiguration": "1s1",
     "semanticConfiguration": "1s1",
     "isotopes": [
-      {
-        "massNumber": 1,
-        "abundance": 99.9885
-      },
-      {
-        "massNumber": 2,
-        "abundance": 0.0115
-      },
-      {
-        "massNumber": 3,
-        "abundance": 0.00000000001
-      }
+      {"massNumber": 1, "abundance": 99.9885},
+      {"massNumber": 2, "abundance": 0.0115},
+      {"massNumber": 3, "abundance": 0.00000000001}
+    ]
+  },
+  {
+    "number": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "atomicMass": 4.002602,
+    "group": 18,
+    "period": 1,
+    "density": 0.0001785,
+    "fusionPoint": 0.95,
+    "ebulitionPoint": 4.222,
+    "atomicRadius": 31,
+    "electronegativity": 0.0,
+    "eletronicConfiguration": "1s2",
+    "semanticConfiguration": "1s2",
+    "isotopes": [
+      {"massNumber": 3, "abundance": 0.000137},
+      {"massNumber": 4, "abundance": 99.999863}
+    ]
+  },
+  {
+    "number": 3,
+    "symbol": "Li",
+    "name": "Lithium",
+    "atomicMass": 6.94,
+    "group": 1,
+    "period": 2,
+    "density": 0.534,
+    "fusionPoint": 453.65,
+    "ebulitionPoint": 1615,
+    "atomicRadius": 167,
+    "electronegativity": 0.98,
+    "eletronicConfiguration": "[He] 2s1",
+    "semanticConfiguration": "1s2 2s1",
+    "isotopes": [
+      {"massNumber": 6, "abundance": 7.59},
+      {"massNumber": 7, "abundance": 92.41}
+    ]
+  }
+  {
+    "number": 4,
+    "symbol": "Be",
+    "name": "Beryllium",
+    "atomicMass": 9.0122,
+    "group": 2,
+    "period": 2,
+    "density": 1.85,
+    "fusionPoint": 1560,
+    "ebulitionPoint": 2742,
+    "atomicRadius": 112,
+    "electronegativity": 1.57,
+    "eletronicConfiguration": "[He] 2s2",
+    "semanticConfiguration": "1s2 2s2",
+    "isotopes": [
+      {"massNumber": 9, "abundance": 100.0}
     ]
   }
 ]
