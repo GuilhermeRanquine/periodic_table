@@ -3,14 +3,11 @@
 #include "Tabela.hpp"
 
 int main() {
-    std::string caminho = "data/elementos.json";
-    std::cout << "Tentando carregar: " << caminho << std::endl;
-
     try {
-        auto elementos = LoadElements(caminho);
-        showTable(elementos);
-    } catch (const std::exception& ex) {
-        std::cerr << "Erro: " << ex.what() << std::endl;
+        auto elements = LoadElements("data/elementos.json");
+        showTable(elements);
+    } catch (const std::exception& e) {
+        std::cerr << "Error: " << e.what() << '\n';
         return 1;
     }
     return 0;
